@@ -1,0 +1,6 @@
+skip_list:
+  - yaml[colons]
+  - yaml[empty-lines]
+  - yaml[line-length]
+  - no-changed-when
+  - galaxy[no-changelog]
